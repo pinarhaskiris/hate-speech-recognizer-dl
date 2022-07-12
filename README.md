@@ -1,9 +1,6 @@
 # hate-speech-recognizer-dl
 An hate-speech recognizer implemented using various models from Hugging Face. Some of them were used as they were (pre-trained), some were fine-tuned. Also a language model was trained from scratch.
 
-This is the **2nd** part of the project. **1st** part is the same task done with machine learning algorithms. Naive Bayes, SVM and Random Forest was used in the 1st part. Approx. 90% accuracy rate was obtained with SVM.
-[1st Part](https://github.com/pinarhaskiris/hate-speech-recognizer-ml)
-
 **The list of models are given below:**
 1. Pre-trained BERTweet
 2. Pre-trained DistilBERT
@@ -36,5 +33,8 @@ All the models were tested with various types of input sentences.
 
 ------
 
-This project was done as the second part of our senior design project.
-Team members were [Pınar Haskırış](https://github.com/pinarhaskiris), [Ahsen Amil](https://github.com/AhsenAmil), [Uras Felamur](https://github.com/urasfelamur).
+This project was done as the **2nd** part of our senior design project. **1st** part is the same task done with machine learning algorithms. Naive Bayes, SVM and Random Forest was used in the 1st part. Approx. 90% accuracy rate was obtained with SVM.
+
+[1st Part](https://github.com/pinarhaskiris/hate-speech-recognizer-ml)
+
+Team members were [Pınar Haskırış](https://github.com/pinarhaskiris), [Ahsen Amil](https://github.com/AhsenAmil), [Uras Felamur](https://github.com/urasfelamur) for both parts.
